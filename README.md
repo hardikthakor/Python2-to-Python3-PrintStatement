@@ -4,12 +4,12 @@
 
 ### For Example :
 ```
-F:\>python final_file.py
+F:\>python convert_file.py
 Enter Directory Path : <directory_path>
 ```
 like
 ```
-F:\>python final_file.py
+F:\>python convert_file.py
 Enter Directory Path : F:\ht\python\test
 ```
 
