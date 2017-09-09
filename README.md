@@ -7,6 +7,12 @@
 F:\>python final_file.py
 Enter Directory Path : <directory_path>
 ```
+like
+```
+F:\>python final_file.py
+Enter Directory Path : F:\ht\python\test
+```
+
 
 ### Note :-
 #### Only works for print statements with double quotes 
