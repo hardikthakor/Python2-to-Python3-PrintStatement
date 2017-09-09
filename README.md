@@ -9,8 +9,8 @@ Enter Directory Path : <directory_path>
 ```
 
 ### Note :-
-```
-Only works for print statements with double quotes 
+#### Only works for print statements with double quotes 
 For Example :
+```
 print "abc"
 ```
